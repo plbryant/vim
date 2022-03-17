@@ -1,7 +1,7 @@
 call plug#begin()
 
 "Theme
-Plug 'morhetz/gruvbox'
+Plug 'arcticicestudio/nord-vim'
 
 "Status bar
 Plug 'shinchu/lightline-gruvbox.vim'
@@ -19,7 +19,6 @@ Plug 'alvan/vim-closetag'
 call plug#end()
 
 "Theme
-colorscheme gruvbox
-set background=dark
+colorscheme nord
 
 
