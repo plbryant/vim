@@ -16,4 +16,8 @@ set undofile
 set incsearch
 set clipboard=unnamedplus
 set relativenumber
+set ignorecase
+set smartcase
+set showmatch
+
 
