@@ -21,9 +21,6 @@ Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
-"Use git without leave terminal
-Plug 'tpope/vim-fugitive'
-
 "Autocompleted
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
