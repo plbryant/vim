@@ -24,6 +24,13 @@ Plug 'vim-airline/vim-airline-themes'
 "Autocompleted
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+"Editor config
+Plug 'editorconfig/editorconfig-vim'
+
+"Icons
+Plug 'ryanoasis/vim-devicons'
+
+
 call plug#end()
 
 "Theme
