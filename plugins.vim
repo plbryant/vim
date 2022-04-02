@@ -1,7 +1,7 @@
 call plug#begin()
 
 "Theme
-Plug 'arcticicestudio/nord-vim'
+Plug 'morhetz/gruvbox'
 
 "Utils
 Plug 'Yggdroot/indentLine'
@@ -27,6 +27,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 "Theme
-colorscheme nord
+colorscheme gruvbox
+
 
 
