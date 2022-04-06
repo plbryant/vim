@@ -3,6 +3,9 @@ call plug#begin()
 "Theme
 Plug 'morhetz/gruvbox'
 
+"Multicursor
+Plug 'terryma/vim-multiple-cursors'
+
 "Utils
 Plug 'Yggdroot/indentLine'
 Plug 'jiangmiao/auto-pairs'
